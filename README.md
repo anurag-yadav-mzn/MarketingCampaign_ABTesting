@@ -45,3 +45,13 @@ Date: Date of the record
   of Purchase: Number of purchases
 </li>
 </ul>
+
+<ul>
+Data Visualization is performed using following types of charts
+<li>
+  Pie chart
+</li>
+<li>
+  Scatter chart
+</li>
+</ul>
